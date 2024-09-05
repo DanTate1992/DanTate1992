@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanTate1992
+# 👋  Hi, I’m @DanTate1992
 - 👀 I’m interested in learning all about coding and software development to begin my career in this industry
 - 🌱 I’m currently learning as much as possible
 - 💞️ I’m looking to collaborate on anything!
